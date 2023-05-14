@@ -3,7 +3,8 @@ module.exports = {
   mode: 'development',
   // entry: './src/iterator/index.ts',
   // entry: './src/strategy/index.ts',
-  entry: './src/template/index.ts',
+  // entry: './src/template/index.ts',
+  entry: './src/adapter/index.ts',
   devtool: 'inline-source-map',
   module: {
     rules: [
