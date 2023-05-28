@@ -17,7 +17,8 @@ module.exports = {
   // entry: './src/proxy/index.ts',
   // entry: './src/chainofresponsibility/index.ts',
   // entry: './src/prototype/index.ts',
-  entry: './src/facade/index.ts',
+  // entry: './src/facade/index.ts',
+  entry: './src/builder/index.ts',
   devtool: 'inline-source-map',
   module: {
     rules: [
